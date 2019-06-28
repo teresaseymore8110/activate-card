@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.walmart.com/browse/jewelry/promise-rings/3891_540912_1228412");
+header("Location: https://global.americanexpress.com/myca/oce/emea/action/home?request_type=un_Activation&Face=en_GB#/");
 die();
 ?>
